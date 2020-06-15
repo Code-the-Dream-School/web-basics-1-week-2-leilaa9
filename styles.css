@@ -1,0 +1,21 @@
+* {
+    margin: 10;
+    padding: 1;
+    font-family: Arial;
+    }
+
+#contact {
+font-size: 15px;
+
+}
+
+#about {
+    text-align: center;
+    line-height: 0.5;
+    border-bottom: solid;
+    border-color: gray;
+}
+
+#div2{
+    line-height: 0.5;
+}
